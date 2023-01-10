@@ -1,0 +1,67 @@
+div{
+    background-color: black;
+    border-color: black;
+    height: 10vh;
+    width: 10vh;
+    position: absolute;
+}
+
+.quadrado-1{
+    top: 0;
+    left: 0;
+}
+
+.quadrado-2{
+    top: 11vh;
+    left: 0;
+}
+
+.quadrado-3{
+    top: 22vh;
+    left: 0;
+}
+
+.quadrado-4{
+    top: 0;
+    left: 11vh;
+}
+
+.quadrado-5{
+    top: 11vh;
+    left: 11vh;
+}
+
+.quadrado-6{
+    top: 0;
+    left: 22vh;
+}
+
+.quadrado-7{
+    bottom: 0;
+    right: 0;
+}
+
+.quadrado-8{
+    bottom: 11vh;
+    right: 0;
+}
+
+.quadrado-9{
+    bottom: 22vh;
+    right: 0;
+}
+
+.quadrado-10{
+    bottom: 0;
+    right: 11vh;
+}
+
+.quadrado-11{
+    bottom: 11vh;
+    right: 11vh;
+}
+
+.quadrado-12{
+    bottom: 0;
+    right: 22vh;
+}

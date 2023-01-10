@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: gray;
+}
+
+.primeiro-texto{
+    background-color: black;
+    color: white;
+    height: 35vh;
+    width: 950px;
+    border-radius: 50px;
+    text-align: right;
+    text-transform: uppercase;
+    padding: 20px;
+    margin-left: 25vh;
+    margin-top: 60px;
+    
+}
+
+.segundo-texto{
+    background-color: black;
+    border: 2px solid red;
+    color: white;
+    height: 30vh;
+    width: 950px;
+    padding: 20px;
+    margin-left: 25vh;
+    text-transform: lowercase;
+    overflow: scroll;
+}
